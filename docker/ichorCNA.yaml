@@ -1,0 +1,29 @@
+name: TSO500ichorCNA
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - r-usethis
+  - picard
+  - libxml2
+  - r-ragg
+  - samtools
+  - bioconductor-hmmcopy
+  - hmmcopy
+  - bwa
+  - r-rcurl
+  - bedtools
+  - fastqc
+  - multiqc
+  - typing_extensions
+  - trimmomatic
+  - r-devtools
+  - r-ggplot2
+  - r-domc
+  - r-foreach
+  - r-stringr
+  - bioconductor-genomicranges
+  #- r-ichorcna
+  - r-optparse
+  - rsync

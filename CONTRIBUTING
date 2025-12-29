@@ -1,0 +1,48 @@
+About this file:
+As many things, this is just an early version of the real thing.
+Everyone still has to learn many ways to Git Gud.
+
+A comprehensive "How to contribute" section and a general "code of conduct" section might be added later.
+This file contains:
+ - "Project status":
+ - "How to contribute": if you find an error, have a clever idea how to improve this tool intended for cfDNA sequencing data analysis from TSO500 ctDNA panel, please read this section carefully!
+                        Any constructive contribution is well received and a place among the list of contributors is yours!
+ - "List of Contributors": the magnificent individuals who strive to make the world a better place, including through their contribution to this humble NGS data pre-processing tool!
+ - "Code Maintainer(s)": the people who make sure GCparagon works and make decisions concerning the repo
+
+
+# Project status: in production
+
+
+# How to contribute:
+!! THIS SECTION IS UNDER CONSTRUCTION !!
+
+Before pushing anything to the repo, please:
+  0) create an issue in the repo, describing the problem you are trying to solve and your approach to get it done
+  1) checkout the "dev" branch and test if your problem still exists
+  2) create and checkout a feature branch (from dev) using a descriptive name of the feature/problem
+  3) implement AND test your changes
+  4) merge your feature branch into the dev branch of the original repository using a pull request ("Contribute" button in github.com) where you describe your changes
+
+Rules applying to all branches (in the future):
+ - signed commits only
+
+Rules applying only to main branch:
+ - contribution requires a merge request from another branch
+ - merging pull requests requires an approval first
+
+
+# List of Contributors
+
+  Code contributors (in order of earliest contribution):
+     Isaac Lazzeri                - https://github.com/Isy89
+     Raul Alejandro Mejia Pedroza
+     Benjamin Spiegl              - https://github.com/BGSpiegl
+     Matvii Mykhailichenko        - https://github.com/matviimykhailichenko
+
+# Code Maintainer(s):
+ Benjamin Spiegl       - https://github.com/BGSpiegl
+ Matvii Mykhailichenko - https://github.com/matviimykhailichenko
+
+Love is the answer!
+Live long and prosper.
